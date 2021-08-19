@@ -1,4 +1,26 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Juliano Fischer Naves</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        A big string here. A big string here. A big string here.  A big string here.
+        \nA big string here.
+        \nA big string here.
+
+        \n\nA big string here. A big string here. A big string here. A big string here. A big string here.
+
+        \nA big string here.
+        \nA big string here.
+        \nA big string here.
+
+        A big string here. A big string here. A big string here.  A big string here.
+        \nA big string here.
+        \nA big string here.
+
+        \n\nA big string here. A big string here. A big string here. A big string here. A big string here.
+
+        \nA big string here.
+        \nA big string here.
+        \nA big string here.
+    </string>
 </resources>
